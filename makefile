@@ -1,2 +1,3 @@
-make: chessviz.cpp
+compile: chessviz.cpp
 	g++ -o chessviz.exe chessviz.cpp -Wall
+	
